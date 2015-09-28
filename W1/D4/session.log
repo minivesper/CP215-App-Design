@@ -1,0 +1,720 @@
+180.76.15.14 - - [20Sep2015072646 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.156 - - [20Sep2015072658 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.179 - - [20Sep2015081537 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.29 - - [20Sep2015082706 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.29 - - [20Sep2015082719 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.105 - - [20Sep2015084624 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.105 - - [20Sep2015084625 -0600] GET ~appdesignwalker HTTP1.1 200 920 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+75.171.129.227 - - [20Sep2015090506 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Mobile13A344
+207.46.13.64 - - [20Sep2015091158 -0600] GET robots.txt HTTP1.1 404 536 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.64 - - [20Sep2015092823 -0600] GET ~apope HTTP1.1 403 508 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.5 - - [20Sep2015093756 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.151 - - [20Sep2015093827 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+76.25.31.40 - - [20Sep2015100732 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comfflboxscorequickleagueId=271507&teamId=5&scoringPeriodId=2&seasonId=2015&view=scoringperiod&version=quick Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+75.171.129.227 - - [20Sep2015102503 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comfflclubhouseleagueId=271507&teamId=6&seasonId=2015 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.85 Safari537.36
+180.76.15.25 - - [20Sep2015103114 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.12 - - [20Sep2015103134 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+50.250.32.241 - - [20Sep2015105821 -0600] GET wp-login.php HTTP1.0 404 501 - -
+50.250.32.241 - - [20Sep2015105822 -0600] GET adminbackupdump.sql HTTP1.0 404 510 - -
+50.250.32.241 - - [20Sep2015105823 -0600] GET adminbackupbackup.sql HTTP1.0 404 512 - -
+50.250.32.241 - - [20Sep2015105823 -0600] GET adminbackupdb.sql HTTP1.0 404 508 - -
+50.250.32.241 - - [20Sep2015105824 -0600] GET adminbackupdatabase.sql HTTP1.0 404 514 - -
+50.250.32.241 - - [20Sep2015105825 -0600] GET backupdump.sql HTTP1.0 404 504 - -
+50.250.32.241 - - [20Sep2015105825 -0600] GET backupbackup.sql HTTP1.0 404 506 - -
+50.250.32.241 - - [20Sep2015105826 -0600] GET backupdb.sql HTTP1.0 404 502 - -
+50.250.32.241 - - [20Sep2015105827 -0600] GET backupdatabase.sql HTTP1.0 404 508 - -
+50.250.32.241 - - [20Sep2015105827 -0600] GET dump.sql HTTP1.0 404 497 - -
+50.250.32.241 - - [20Sep2015105828 -0600] GET backup.sql HTTP1.0 404 499 - -
+50.250.32.241 - - [20Sep2015105829 -0600] GET database.sql HTTP1.0 404 501 - -
+50.250.32.241 - - [20Sep2015105829 -0600] GET db.sql HTTP1.0 404 495 - -
+50.250.32.241 - - [20Sep2015105830 -0600] GET admindump.sql HTTP1.0 404 503 - -
+50.250.32.241 - - [20Sep2015105830 -0600] GET adminbackup.sql HTTP1.0 404 505 - -
+50.250.32.241 - - [20Sep2015105831 -0600] GET admindatabase.sql HTTP1.0 404 507 - -
+50.250.32.241 - - [20Sep2015105832 -0600] GET admindb.sql HTTP1.0 404 501 - -
+180.76.15.153 - - [20Sep2015115320 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.14 - - [20Sep2015115336 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.97 - - [20Sep2015120924 -0600] GET ~bylvisaker HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.113 - - [20Sep2015121050 -0600] GET ~bylvisaker HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+182.118.55.244 - - [20Sep2015122352 -0600] GET  HTTP1.1 200 522 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit537.36 (KHTML, like Gecko) Chrome41.0.2251.0 Safari537.36
+180.76.15.163 - - [20Sep2015124402 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.153 - - [20Sep2015124431 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+123.125.71.24 - - [20Sep2015124748 -0600] - 408 0 - -
+220.181.108.162 - - [20Sep2015125534 -0600] - 408 0 - -
+173.70.46.254 - - [20Sep2015125652 -0600] GET ~bylvisakerCallReturnthread_stack.html HTTP1.1 200 4683 - Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015125659 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1221 httpcs.coloradocollege.edu~bylvisakerCallReturnthread_stack.html Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015125659 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerCallReturnthread_stack.html Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+107.21.253.49 - - [20Sep2015134353 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4463 - Mozilla5.0 (compatible; Embedly0.2; +httpsupport.embed.ly)
+54.221.198.105 - - [20Sep2015134354 -0600] GET favicon.ico HTTP1.1 404 451 - Mozilla5.0 (compatible; Embedly0.2; snap; +httpsupport.embed.ly)
+180.76.15.22 - - [20Sep2015135620 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.19 - - [20Sep2015135647 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+77.157.65.71 - - [20Sep2015143428 -0600] GET favicon.ico HTTP1.1 404 507 - Mozilla5.0 (X11; Linux x86_64; rv39.0) Gecko20100101 Firefox39.0
+77.157.65.71 - - [20Sep2015143450 -0600] - 408 0 - -
+64.237.45.114 - - [20Sep2015144800 -0600] GET ~bylvisakermonadmotivation HTTP1.1 404 484 - Mozilla5.0 (Windows; U; Windows NT 6.1; en-US; rv1.9.2.12) Gecko20101026 Firefox3.6.12
+173.70.46.254 - - [20Sep2015144905 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015144905 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015144905 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015144908 -0600] GET apple-touch-icon-76x76-precomposed.png HTTP1.1 404 529 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144908 -0600] GET apple-touch-icon-76x76.png HTTP1.1 404 520 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144908 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144909 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144911 -0600] GET ~bylvisakerCallReturnthread_stack.html HTTP1.1 200 4683 - Mozilla5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F69 Safari600.1.4
+173.70.46.254 - - [20Sep2015144914 -0600] GET apple-touch-icon-76x76-precomposed.png HTTP1.1 404 529 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144914 -0600] GET apple-touch-icon-76x76.png HTTP1.1 404 520 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144914 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+173.70.46.254 - - [20Sep2015144915 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - MobileSafari600.1.4 CFNetwork711.3.18 Darwin14.0.0
+166.137.139.28 - - [20Sep2015145213 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Mobile13A344
+180.76.15.151 - - [20Sep2015145303 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.17 - - [20Sep2015145333 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+68.180.229.170 - - [20Sep2015153236 -0600] GET robots.txt HTTP1.1 404 480 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+68.180.229.170 - - [20Sep2015153237 -0600] GET ~bylvisaker HTTP1.1 304 156 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+180.76.15.5 - - [20Sep2015153415 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.149 - - [20Sep2015153446 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.105 - - [20Sep2015160346 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 304 190 - Googlebot-Image1.0
+66.249.69.113 - - [20Sep2015160425 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 304 189 - Googlebot-Image1.0
+180.76.15.146 - - [20Sep2015162913 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.162 - - [20Sep2015162926 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+73.162.195.116 - - [20Sep2015163534 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Mobile12B411
+123.125.71.23 - - [20Sep2015173201 -0600] - 408 0 - -
+207.241.237.229 - - [20Sep2015173207 -0600] GET robots.txt HTTP1.0 404 499 - Mozilla5.0 (compatible; special_archiver3.1.1 +httpwww.archive.orgdetailsarchive.org_bot)
+207.241.237.229 - - [20Sep2015173211 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.0 200 4295 httpcs.coloradocollege.edu~bylvisakerCallReturn Mozilla5.0 (compatible; special_archiver3.1.1 +httpwww.archive.orgdetailsarchive.org_bot)
+220.181.108.118 - - [20Sep2015173612 -0600] - 408 0 - -
+207.241.237.229 - - [20Sep2015175153 -0600] GET favicon.ico HTTP1.0 404 500 httpcs.coloradocollege.edu~bylvisakerCallReturn Mozilla5.0 (compatible; archive.org_bot +httpwww.archive.orgdetailsarchive.org_bot)
+180.76.15.26 - - [20Sep2015182838 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.33 - - [20Sep2015182855 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.14 - - [20Sep2015193421 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.11 - - [20Sep2015193448 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.151 - - [20Sep2015202806 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.137 - - [20Sep2015202818 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+123.125.71.84 - - [20Sep2015204111 -0600] - 408 0 - -
+220.181.108.177 - - [20Sep2015204931 -0600] - 408 0 - -
+97.118.11.191 - - [20Sep2015212451 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comfflclubhouseleagueId=271507&teamId=6&seasonId=2015 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+180.76.15.157 - - [20Sep2015213948 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.17 - - [20Sep2015214024 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+76.25.31.40 - - [20Sep2015214335 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Mobile13A344
+66.249.84.228 - - [20Sep2015220541 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.84.231 - - [20Sep2015220541 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+123.125.71.36 - - [20Sep2015221659 -0600] - 408 0 - -
+220.181.108.90 - - [20Sep2015222951 -0600] - 408 0 - -
+180.76.15.146 - - [20Sep2015223005 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.15 - - [20Sep2015223024 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+74.80.63.148 - - [20Sep2015223047 -0600] GET ~bylvisaker HTTP1.1 200 4683 httpwww.cs.swarthmore.edu~bylvisa1 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+74.80.63.148 - - [20Sep2015223047 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 200 8909 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+74.80.63.148 - - [20Sep2015223047 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 200 76917 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+74.80.63.148 - - [20Sep2015223047 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+207.46.13.64 - - [20Sep2015231813 -0600] GET robots.txt HTTP1.1 404 536 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.64 - - [20Sep2015231817 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.64 - - [20Sep2015231831 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+178.78.220.188 - - [20Sep2015232618 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Version9.0 Mobile13B5110e Safari601.1
+178.78.220.188 - - [20Sep2015232618 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Version9.0 Mobile13B5110e Safari601.1
+178.78.220.188 - - [20Sep2015232619 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Version9.0 Mobile13B5110e Safari601.1
+180.76.15.14 - - [20Sep2015235609 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.150 - - [20Sep2015235627 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.97 - - [21Sep2015001537 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.113 - - [21Sep2015001537 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 304 189 - Googlebot-Image1.0
+66.249.69.97 - - [21Sep2015001547 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 304 190 - Googlebot-Image1.0
+180.76.15.155 - - [21Sep2015003736 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.151 - - [21Sep2015003757 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.84.226 - - [21Sep2015012813 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.139 - - [21Sep2015013630 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.135 - - [21Sep2015013655 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.97 - - [21Sep2015015000 -0600] GET ~bylvisaker HTTP1.1 200 4683 - Mozilla5.0 AppleWebKit537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome27.0.1453 Safari537.36 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.93.179 - - [21Sep2015015129 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.93.187 - - [21Sep2015015130 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+178.239.50.139 - - [21Sep2015021258 -0600] GET phpmoadminmoadmin.php HTTP1.0 404 511 - -
+66.249.69.105 - - [21Sep2015022243 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.105 - - [21Sep2015022256 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1221 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.155 - - [21Sep2015033606 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.141 - - [21Sep2015033636 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+118.98.104.21 - - [21Sep2015034414 -0600] GET usersoapCaller.bs HTTP1.1 404 470 - Morfeus Fucking Scanner
+66.249.69.105 - - [21Sep2015035208 -0600] GET ~appdesignrebeccaExtracted_Images HTTP1.1 200 1419 - Mozilla5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F70 Safari600.1.4 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+157.55.39.191 - - [21Sep2015035732 -0600] GET ~bylvisaker HTTP1.1 200 4683 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.191 - - [21Sep2015035732 -0600] GET ~appdesignrebeccaimagesC=S;O=A HTTP1.1 200 946 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.191 - - [21Sep2015035732 -0600] GET ~appdesignrebeccaimagesC=D;O=A HTTP1.1 200 948 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.191 - - [21Sep2015035732 -0600] GET ~appdesignrebecca HTTP1.1 200 897 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.57 - - [21Sep2015035751 -0600] GET ~bylvisakerresume_benjamin_ylvisaker_2013.pdf HTTP1.1 200 52822 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.57 - - [21Sep2015035751 -0600] GET ~bylvisakerCallReturnthread_stack.html HTTP1.1 200 4683 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.57 - - [21Sep2015035751 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4518 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.148 - - [21Sep2015042942 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.20 - - [21Sep2015042950 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.105 - - [21Sep2015051409 -0600] GET ~appdesignxanderFehsenfeld HTTP1.1 200 964 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.97 - - [21Sep2015051703 -0600] GET ~appdesignxanderFehsenfeldhello.cgi HTTP1.1 200 581 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+54.209.60.63 - - [21Sep2015052345 -0600] GET ~bylvisaker HTTP1.1 200 4646 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit600.1.25 (KHTML, like Gecko) Version8.0 Safari600.1.25
+180.76.15.141 - - [21Sep2015054050 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.159 - - [21Sep2015054124 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.160 - - [21Sep2015063208 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.23 - - [21Sep2015063228 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+157.55.39.67 - - [21Sep2015073148 -0600] GET robots.txt HTTP1.1 404 536 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.33 - - [21Sep2015073253 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.14 - - [21Sep2015073318 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.97 - - [21Sep2015081257 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 304 190 - Googlebot-Image1.0
+66.249.69.105 - - [21Sep2015081259 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 304 189 - Googlebot-Image1.0
+180.76.15.137 - - [21Sep2015082635 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.160 - - [21Sep2015082646 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+178.76.227.164 - - [21Sep2015083542 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015083542 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015083542 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+122.57.160.80 - - [21Sep2015084247 -0600] GET Ringing.at.your.dorbell! HTTP1.0 404 513 httpgoogle.comsearchq=2+guys+1+horse x00_-gawa.sa.pilipinas.2015
+122.57.160.80 - - [21Sep2015084247 -0600] GET  HTTP1.0 200 674 - x00_-gawa.sa.pilipinas.2015
+122.57.160.80 - - [21Sep2015084248 -0600] GET  HTTP1.0 200 674 - x00_-gawa.sa.pilipinas.2015
+122.57.160.80 - - [21Sep2015084248 -0600] GET  HTTP1.0 200 674 - x00_-gawa.sa.pilipinas.2015
+172.29.40.139 - - [21Sep2015085201 -0600] GET ~bylvisaker HTTP1.1 301 582 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085201 -0600] GET ~bylvisaker HTTP1.1 200 4682 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085201 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 200 8909 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085201 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 200 76917 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085201 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085236 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 403 535 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.139 - - [21Sep2015085254 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 27488832 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.6.110 - - [21Sep2015085823 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 8322930 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+157.55.39.67 - - [21Sep2015090106 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+172.23.5.129 - - [21Sep2015085849 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 4821894 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+205.170.12.185 - - [21Sep2015090234 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.85 Safari537.36
+219.232.247.108 - - [21Sep2015091722 -0600] GET iviviviiv.php HTTP1.1 404 494 - -
+219.232.247.108 - - [21Sep2015091723 -0600] GET phpMyAdminscriptssetup.php HTTP1.1 404 507 - -
+219.232.247.108 - - [21Sep2015091726 -0600] GET pmascriptssetup.php HTTP1.1 404 500 - -
+219.232.247.108 - - [21Sep2015091727 -0600] GET myadminscriptssetup.php HTTP1.1 404 504 - -
+172.23.5.129 - - [21Sep2015091955 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 15665958 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.27.44.21 - - [21Sep2015092153 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.34 - - [21Sep2015092212 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.29.40.168 - - [21Sep2015092307 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.20.153 - - [21Sep2015091955 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.5.129 - - [21Sep2015092153 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.91 - - [21Sep2015092448 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.22.171 - - [21Sep2015092849 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.85 Safari537.36
+180.76.15.135 - - [21Sep2015093649 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.15 - - [21Sep2015093724 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.113 - - [21Sep2015094210 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F70 Safari600.1.4 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+157.55.39.191 - - [21Sep2015095044 -0600] GET ~bylvisaker HTTP1.1 200 4683 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+107.23.45.196 - - [21Sep2015095557 -0600] GET  HTTP1.1 200 578 httpcs.coloradocollege.edu Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+107.23.45.196 - - [21Sep2015095557 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edufavicon.ico Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+172.23.8.91 - - [21Sep2015100857 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.20.88 - - [21Sep2015102700 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.85 Safari537.36
+180.76.15.12 - - [21Sep2015102926 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.139 - - [21Sep2015102943 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.29.44.18 - - [21Sep2015103715 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+178.76.227.164 - - [21Sep2015104526 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015104526 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015104526 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+172.29.44.27 - - [21Sep2015104712 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+220.181.108.111 - - [21Sep2015105728 -0600] GET  HTTP1.1 200 541 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.145 - - [21Sep2015115039 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.12 - - [21Sep2015115054 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+97.118.11.191 - - [21Sep2015115133 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comfflboxscorequickleagueId=271507&teamId=6&scoringPeriodId=2&seasonId=2015&view=scoringperiod&version=quick Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+46.118.155.216 - - [21Sep2015121836 -0600] GET robots.txt HTTP1.1 404 536 - Mozilla5.0 (Windows NT 6.3; WOW64; rv36.0) Gecko20100101 Firefox36.0
+66.249.69.105 - - [21Sep2015122213 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.105 - - [21Sep2015122213 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 211 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.7 - - [21Sep2015123751 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.138 - - [21Sep2015123807 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+178.76.227.164 - - [21Sep2015124537 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015124538 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015124538 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+172.23.8.34 - - [21Sep2015124359 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.34 - - [21Sep2015133008 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 39435174 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.104 - - [21Sep2015132808 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.21.179 - - [21Sep2015133130 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 6.3; WOW64; rv40.0) Gecko20100101 Firefox40.0
+172.23.9.62 - - [21Sep2015133700 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version8.0.8 Safari600.8.9
+172.23.10.152 - - [21Sep2015134018 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.85 Safari537.36
+178.76.227.164 - - [21Sep2015135355 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015135355 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015135356 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+66.249.93.183 - - [21Sep2015135546 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.93.187 - - [21Sep2015135546 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.11 - - [21Sep2015141319 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.142 - - [21Sep2015141344 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.27.44.21 - - [21Sep2015142758 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 195677960 - Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome42.0.2311.135 Safari537.36 Edge12.10240
+68.180.229.170 - - [21Sep2015150857 -0600] GET robots.txt HTTP1.1 404 480 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+68.180.229.170 - - [21Sep2015150857 -0600] GET ~bylvisaker HTTP1.1 304 156 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+65.209.60.146 - - [21Sep2015152300 -0600] GET ~pandrewsreu.html HTTP1.1 200 1543 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+65.209.60.146 - - [21Sep2015152300 -0600] GET ~pandrewsstylesheetslayout.css HTTP1.1 200 1785 httpcs.coloradocollege.edu~pandrewsreu.html Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+65.209.60.146 - - [21Sep2015152300 -0600] GET ~pandrewsimagesposter.jpg HTTP1.1 200 62120 httpcs.coloradocollege.edu~pandrewsreu.html Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+65.209.60.146 - - [21Sep2015152300 -0600] GET ~pandrewsimagesfavicon.ico HTTP1.1 200 1445 httpcs.coloradocollege.edu~pandrewsreu.html Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+65.209.60.146 - - [21Sep2015152318 -0600] GET ~pandrews HTTP1.1 200 1297 httpcs.coloradocollege.edu~pandrewsreu.html Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+65.209.60.146 - - [21Sep2015152319 -0600] GET ~pandrewsimagesnewmexico_small2.jpg HTTP1.1 200 33785 httpcs.coloradocollege.edu~pandrews Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+180.76.15.149 - - [21Sep2015153729 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.142 - - [21Sep2015153801 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.97 - - [21Sep2015154420 -0600] GET ~appdesignxanderFehsenfeld HTTP1.1 200 964 - Mozilla5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F70 Safari600.1.4 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+173.228.87.163 - - [21Sep2015154421 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4289 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+173.228.87.163 - - [21Sep2015154421 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisakerCallReturn Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+173.228.87.163 - - [21Sep2015154421 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4288 - Mozilla5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12B410 Safari600.1.4
+173.228.87.163 - - [21Sep2015154421 -0600] GET apple-touch-icon-precomposed.png HTTP1.1 404 523 - com.apple.WebKit.WebContent10600.7.12 CFNetwork720.4.4 Darwin14.4.0 (x86_64)
+173.228.87.163 - - [21Sep2015154421 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - com.apple.WebKit.WebContent10600.7.12 CFNetwork720.4.4 Darwin14.4.0 (x86_64)
+46.128.247.209 - - [21Sep2015155135 -0600] GET favicon.ico HTTP1.1 404 507 - Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+178.76.227.164 - - [21Sep2015162845 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015162846 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015162846 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+208.88.224.203 - - [21Sep2015163537 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; SurdotlyBot1.0; +httpsur.lybot.html)
+180.76.15.153 - - [21Sep2015163613 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.28 - - [21Sep2015163624 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.113 - - [21Sep2015170558 -0600] GET ~appdesignxanderFehsenfeldcp365.tex HTTP1.1 304 189 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+81.225.173.64 - - [21Sep2015172016 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+81.225.173.64 - - [21Sep2015172017 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1221 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+180.76.15.143 - - [21Sep2015173356 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.134 - - [21Sep2015173418 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.33 - - [21Sep2015183146 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.24 - - [21Sep2015183204 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+94.102.48.194 - - [21Sep2015184008 -0600] GET  HTTP1.0 200 674 - masscan1.0 (httpsgithub.comrobertdavidgrahammasscan)
+71.218.56.95 - - [21Sep2015185156 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Mobile13A344
+216.52.242.16 - - [21Sep2015185731 -0600] GET ~pandrewsimagesposter.jpg HTTP1.1 200 62109 - LinkedInBot1.0 (compatible; Mozilla5.0; Jakarta Commons-HttpClient4.3 +httpwww.linkedin.com)
+180.76.15.24 - - [21Sep2015193508 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.32 - - [21Sep2015193533 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.9.178 - - [21Sep2015193532 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+50.134.175.243 - - [21Sep2015194043 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit601.1.46 (KHTML, like Gecko) Mobile13A344
+178.76.227.164 - - [21Sep2015195413 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015195413 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [21Sep2015195414 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+66.249.69.97 - - [21Sep2015195856 -0600] GET ~appdesignwalker HTTP1.1 200 921 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.158 - - [21Sep2015202725 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.153 - - [21Sep2015202739 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.18.13 - - [21Sep2015203634 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 6.1; WOW64; rv40.0) Gecko20100101 Firefox40.0
+36.248.187.12 - - [21Sep2015211637 -0600] GET ~bylvisakerCallReturn HTTP1.1 301 601 - Mozilla4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;)
+36.248.187.12 - - [21Sep2015211638 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4289 - Mozilla4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;)
+66.249.69.113 - - [21Sep2015212247 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+172.23.8.34 - - [21Sep2015213740 -0600] GET ~bylvisaker HTTP1.1 200 4683 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.34 - - [21Sep2015213740 -0600] GET ~bylvisakerImagesbenjamin_ylvisaker_head.jpg HTTP1.1 200 8909 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.34 - - [21Sep2015213740 -0600] GET ~bylvisakerImagesben_fennec.png HTTP1.1 200 76917 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.8.34 - - [21Sep2015213740 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisaker Mozilla5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+180.76.15.149 - - [21Sep2015213752 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.13 - - [21Sep2015213828 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+167.114.30.64 - - [21Sep2015220204 -0600] GET phpMyAdminscriptssetup.php HTTP1.1 404 488 - -
+180.76.15.143 - - [21Sep2015223008 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.150 - - [21Sep2015223025 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+71.218.56.95 - - [21Sep2015223316 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comfflclubhouseleagueId=271507&teamId=6&seasonId=2015 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+96.242.38.248 - - [21Sep2015225055 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+96.242.38.248 - - [21Sep2015225055 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+206.116.119.8 - - [21Sep2015225719 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4289 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version8.0.8 Safari600.8.9
+206.116.119.8 - - [21Sep2015225719 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisakerCallReturn Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version8.0.8 Safari600.8.9
+206.116.119.8 - - [21Sep2015225719 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4288 - Mozilla5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12B410 Safari600.1.4
+206.116.119.8 - - [21Sep2015225719 -0600] GET apple-touch-icon-precomposed.png HTTP1.1 404 523 - com.apple.WebKit.WebContent10600.8.9 CFNetwork720.5.7 Darwin14.5.0 (x86_64)
+206.116.119.8 - - [21Sep2015225720 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - com.apple.WebKit.WebContent10600.8.9 CFNetwork720.5.7 Darwin14.5.0 (x86_64)
+96.242.38.248 - - [21Sep2015231614 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+96.242.38.248 - - [21Sep2015231614 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 - Mozilla5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit532.9 (KHTML, like Gecko) Version4.0.5 Mobile8A293 Safari6531.22.7
+208.115.113.92 - - [21Sep2015233123 -0600] GET robots.txt HTTP1.1 404 480 - Mozilla5.0 (compatible; DotBot1.1; httpwww.opensiteexplorer.orgdotbot, help@moz.com)
+66.249.69.113 - - [21Sep2015233409 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.151 - - [21Sep2015235118 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.6 - - [21Sep2015235136 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+208.115.113.92 - - [22Sep2015002200 -0600] GET %7Ebylvisaker HTTP1.1 200 11249 - Mozilla5.0 (compatible; DotBot1.1; httpwww.opensiteexplorer.orgdotbot, help@moz.com)
+180.76.15.19 - - [22Sep2015010319 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.163 - - [22Sep2015010346 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.84.226 - - [22Sep2015013203 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.84.231 - - [22Sep2015013203 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+68.180.229.170 - - [22Sep2015013257 -0600] GET robots.txt HTTP1.1 404 480 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+68.180.229.170 - - [22Sep2015013257 -0600] GET ~bylvisakerCallReturn HTTP1.1 304 156 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+180.76.15.26 - - [22Sep2015013534 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.29 - - [22Sep2015013601 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.12 - - [22Sep2015022910 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.21 - - [22Sep2015022921 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.183 - - [22Sep2015032936 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.93.187 - - [22Sep2015032936 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.163 - - [22Sep2015033707 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.28 - - [22Sep2015033737 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+68.180.229.170 - - [22Sep2015033852 -0600] GET ~bylvisakerxxx HTTP1.1 404 457 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+66.249.69.105 - - [22Sep2015034139 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.69.113 - - [22Sep2015034139 -0600] GET ~appdesignwalker HTTP1.1 200 921 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.141 - - [22Sep2015043806 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.9 - - [22Sep2015043839 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.183 - - [22Sep2015045550 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+141.212.121.128 - - [22Sep2015051002 -0600] GET  HTTP1.1 200 655 - Mozilla5.0 zgrab0.x
+66.71.247.94 - - [22Sep2015053509 -0600] GET phpMyAdminscriptssetup.php HTTP1.0 404 517 - -
+192.99.107.207 - - [22Sep2015061755 -0600] GET robots.txt HTTP1.1 404 451 - Mozilla5.0 (compatible; meanpathbot1.0; +httpwww.meanpath.commeanpathbot.html)
+192.99.107.199 - - [22Sep2015061755 -0600] GET  HTTP1.1 200 522 - Mozilla5.0 (compatible; meanpathbot1.0; +httpwww.meanpath.commeanpathbot.html)
+157.55.39.245 - - [22Sep2015062740 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.24 - - [22Sep2015063151 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.27 - - [22Sep2015063211 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.69.113 - - [22Sep2015063439 -0600] GET ~appdesignxanderFehsenfeldcp365.tex HTTP1.1 304 189 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+178.76.227.164 - - [22Sep2015063559 -0600] GET admin.php HTTP1.0 404 535 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [22Sep2015063559 -0600] GET administratorindex.php HTTP1.0 404 549 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+178.76.227.164 - - [22Sep2015063559 -0600] GET wp-login.php HTTP1.0 404 538 - Opera9.80 (Windows NT 6.1; U; ru) Presto2.8.131 Version11.10
+90.21.46.10 - - [22Sep2015072235 -0600] GET favicon.ico HTTP1.1 404 507 - Mozilla5.0 (X11; Linux x86_64; rv39.0) Gecko20100101 Firefox39.0
+66.249.69.105 - - [22Sep2015073309 -0600] GET ~appdesignrebeccaExtracted_Images HTTP1.1 200 1419 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.9 - - [22Sep2015073740 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.160 - - [22Sep2015073803 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.145 - - [22Sep2015082615 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.27 - - [22Sep2015082625 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.64.73 - - [22Sep2015085409 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.64.73 - - [22Sep2015085409 -0600] GET ~jmushinskitwitplus.html HTTP1.1 200 1659 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.64.63 - - [22Sep2015085421 -0600] GET ~jmushinskistylesheetsstyle.css HTTP1.1 200 970 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+194.187.168.27 - - [22Sep2015090658 -0600] GET robots.txt HTTP1.0 404 470 - Mozilla5.0 (compatible; Qwantify2.1n; +httpswww.qwant.com)
+194.187.168.27 - - [22Sep2015090659 -0600] GET ~bylvisaker HTTP1.0 304 175 - Mozilla5.0 (compatible; Qwantify2.1n; +httpswww.qwant.com)
+180.76.15.139 - - [22Sep2015093546 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.15 - - [22Sep2015093620 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.64.73 - - [22Sep2015093728 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.64.73 - - [22Sep2015093828 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.31 - - [22Sep2015103318 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.156 - - [22Sep2015103343 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+68.180.229.170 - - [22Sep2015112851 -0600] GET ~bylvisaker HTTP1.1 304 156 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+182.118.55.234 - - [22Sep2015114051 -0600] GET  HTTP1.1 200 522 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit537.36 (KHTML, like Gecko) Chrome41.0.2251.0 Safari537.36
+66.249.93.187 - - [22Sep2015114620 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.134 - - [22Sep2015115357 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.22 - - [22Sep2015115419 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+46.128.247.209 - - [22Sep2015124105 -0600] GET favicon.ico HTTP1.1 404 507 - Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+66.249.93.179 - - [22Sep2015125358 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.23 - - [22Sep2015125457 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.21 - - [22Sep2015125512 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.7.145 - - [22Sep2015125946 -0600] GET ~appdesigncarpoolridesharelogin.html HTTP1.1 304 211 - Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.145 - - [22Sep2015125946 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~appdesigncarpoolridesharelogin.html Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.145 - - [22Sep2015125958 -0600] GET ~appdesigncarpoolgooglemaps.html HTTP1.1 304 211 httpcs.coloradocollege.edu~appdesigncarpoolridesharelogin.html Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+37.9.62.74 - - [22Sep2015130358 -0600] GET ~bylvisakerMonadMotivation HTTP1.0 200 10814 - Mozilla5.0 (Windows NT 6.1) AppleWebKit537.36 (KHTML, like Gecko) Chrome41.0.2228.0 Safari537.36
+66.249.64.73 - - [22Sep2015130649 -0600] GET ~appdesignrebeccaExtracted_Images HTTP1.1 200 1419 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+172.23.5.84 - - [22Sep2015133640 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.76.15.11 - - [22Sep2015135624 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.147 - - [22Sep2015135653 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+46.128.247.209 - - [22Sep2015140122 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+46.128.247.209 - - [22Sep2015140122 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+46.128.247.209 - - [22Sep2015140122 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+46.128.247.209 - - [22Sep2015140122 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko) Ubuntu Chromium39.0.2171.65 Chrome39.0.2171.65 Safari537.36
+180.76.15.134 - - [22Sep2015143511 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.23 - - [22Sep2015143524 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.64.68 - - [22Sep2015150318 -0600] GET ~appdesignrahim_karimipyTunesplayer.py HTTP1.1 200 9872 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.64.68 - - [22Sep2015154618 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 304 212 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.93.183 - - [22Sep2015154902 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.93.187 - - [22Sep2015154902 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.149 - - [22Sep2015162621 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.12 - - [22Sep2015162634 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.64.73 - - [22Sep2015165719 -0600] GET ~appdesignwalker HTTP1.1 200 921 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+207.241.229.243 - - [22Sep2015171120 -0600] GET robots.txt HTTP1.0 404 499 - Mozilla5.0 (compatible; special_archiver3.1.1 +httpwww.archive.orgdetailsarchive.org_bot)
+207.241.229.243 - - [22Sep2015171124 -0600] GET ~bylvisakergenerated_toc.js HTTP1.0 200 11943 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (compatible; special_archiver3.1.1 +httpwww.archive.orgdetailsarchive.org_bot)
+180.76.15.140 - - [22Sep2015173754 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.19 - - [22Sep2015173819 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+54.161.219.151 - - [22Sep2015174428 -0600] GET  HTTP1.1 200 711 - Mozilla5.0 (Windows; U; Windows NT 6.0; en-US; rv1.9.2.3) Gecko20100401 Firefox3.6.3 GTB6 (.NET CLR 3.5.30729)
+149.129.255.20 - - [22Sep2015180026 -0600] GET tmUnblock.cgi HTTP1.1 400 519 - -
+149.129.255.20 - - [22Sep2015180029 -0600] GET  HTTP1.1 400 519 - -
+66.249.64.73 - - [22Sep2015182948 -0600] GET ~appdesignborthwickJackimages.html HTTP1.1 200 2448 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.150 - - [22Sep2015182957 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.139 - - [22Sep2015183015 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.83.203 - - [22Sep2015183842 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.83.213 - - [22Sep2015183842 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+69.64.46.86 - - [22Sep2015191535 -0600] GET cgi-binrtpd.cgi HTTP1.0 404 505 - -
+180.76.15.143 - - [22Sep2015193349 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.155 - - [22Sep2015193413 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.23 - - [22Sep2015204255 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.20 - - [22Sep2015204335 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.9 - - [22Sep2015213823 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.156 - - [22Sep2015213859 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.64.63 - - [22Sep2015222929 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.64.68 - - [22Sep2015222929 -0600] GET ~mwhiteheadhiggs.html HTTP1.1 200 529 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.15 - - [22Sep2015222943 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.31 - - [22Sep2015223000 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.88.114 - - [22Sep2015232009 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.88.94 - - [22Sep2015232010 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+169.54.233.116 - - [22Sep2015234646 -0600] GET  HTTP1.0 200 674 - Mozilla5.0 (Windows NT 6.1; rv31.0) Gecko20100101 Firefox31.0
+194.187.168.18 - - [23Sep2015000039 -0600] GET robots.txt HTTP1.0 404 470 - Mozilla5.0 (compatible; Qwantify2.1n; +httpswww.qwant.com)
+194.187.168.18 - - [23Sep2015000039 -0600] GET ~bylvisakerMonadMotivation HTTP1.0 304 175 - Mozilla5.0 (compatible; Qwantify2.1n; +httpswww.qwant.com)
+180.76.15.6 - - [23Sep2015000317 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.163 - - [23Sep2015000339 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.162 - - [23Sep2015003916 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.22 - - [23Sep2015003936 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.137 - - [23Sep2015022657 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.9 - - [23Sep2015022706 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+95.195.212.54 - - [23Sep2015024846 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 httpbartoszmilewski.com20141028category-theory-for-programmers-the-preface Mozilla5.0 (Linux; Android 5.1.1; Nexus 6 BuildLMY48M) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+95.195.212.54 - - [23Sep2015024847 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Linux; Android 5.1.1; Nexus 6 BuildLMY48M) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+95.195.212.54 - - [23Sep2015024847 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Linux; Android 5.1.1; Nexus 6 BuildLMY48M) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+95.195.212.54 - - [23Sep2015024847 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Linux; Android 5.1.1; Nexus 6 BuildLMY48M) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+157.55.39.4 - - [23Sep2015030333 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.161 - - [23Sep2015033844 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.24 - - [23Sep2015033918 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.254.82.216 - - [23Sep2015040531 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 10814 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.254.82.216 - - [23Sep2015040533 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 4332 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.254.82.216 - - [23Sep2015040533 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 11980 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.254.82.216 - - [23Sep2015040539 -0600] GET favicon.ico HTTP1.1 404 537 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.76.15.134 - - [23Sep2015042844 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.16 - - [23Sep2015042856 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.84.231 - - [23Sep2015052536 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.84.226 - - [23Sep2015052538 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.141 - - [23Sep2015053703 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.146 - - [23Sep2015053733 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.143 - - [23Sep2015063329 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.161 - - [23Sep2015063352 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.7 - - [23Sep2015073126 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.31 - - [23Sep2015073147 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.84.226 - - [23Sep2015075621 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+180.76.15.12 - - [23Sep2015082728 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.157 - - [23Sep2015082739 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.187 - - [23Sep2015083436 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.93.187 - - [23Sep2015083436 -0600] GET favicon.ico HTTP1.1 404 506 - Google favicon
+107.23.45.196 - - [23Sep2015085936 -0600] GET  HTTP1.1 200 578 httpcs.coloradocollege.edu Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+107.23.45.196 - - [23Sep2015085936 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edufavicon.ico Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+180.76.15.142 - - [23Sep2015093631 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.34 - - [23Sep2015093706 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+82.211.19.196 - - [23Sep2015100707 -0600] POST cgi-binphp%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP1.1 404 490 - Mozilla5.0 (Windows NT 6.3; rv36.0) Gecko20100101 Firefox36.0
+82.211.19.196 - - [23Sep2015100708 -0600] POST cgi-binphp5%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP1.1 404 491 - Mozilla5.0 (Windows NT 6.3; rv36.0) Gecko20100101 Firefox36.0
+82.211.19.196 - - [23Sep2015100709 -0600] POST cgi-binphp-cgi%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP1.1 404 494 - Mozilla5.0 (Windows NT 6.3; rv36.0) Gecko20100101 Firefox36.0
+82.211.19.196 - - [23Sep2015100709 -0600] POST cgi-binphp5-cgi%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP1.1 404 495 - Mozilla5.0 (Windows NT 6.3; rv36.0) Gecko20100101 Firefox36.0
+82.211.19.196 - - [23Sep2015100710 -0600] POST cgi-binphp-cgi.bin%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E HTTP1.1 404 498 - Mozilla5.0 (Windows NT 6.3; rv36.0) Gecko20100101 Firefox36.0
+180.76.15.24 - - [23Sep2015103026 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.159 - - [23Sep2015103047 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.179 - - [23Sep2015103351 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+220.181.108.150 - - [23Sep2015105529 -0600] GET  HTTP1.1 200 541 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.106.32 - - [23Sep2015110739 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.106.32 - - [23Sep2015110739 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.30.74 - - [23Sep2015110937 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (Windows NT 6.1) AppleWebKit537.36 (KHTML, like Gecko) Chrome42.0.2311.135 Safari537.36
+172.23.30.74 - - [23Sep2015110937 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu Mozilla5.0 (Windows NT 6.1) AppleWebKit537.36 (KHTML, like Gecko) Chrome42.0.2311.135 Safari537.36
+180.76.15.12 - - [23Sep2015113859 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.18 - - [23Sep2015113912 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.110.89 - - [23Sep2015114312 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 301 608 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114312 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 670 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114312 -0600] GET iconsblank.gif HTTP1.1 200 439 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114312 -0600] GET iconsback.gif HTTP1.1 200 507 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114312 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114312 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114319 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 796 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114332 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 801 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114349 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 797 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.110.89 - - [23Sep2015114724 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+180.76.15.32 - - [23Sep2015123531 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.154 - - [23Sep2015123550 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+68.180.229.170 - - [23Sep2015124751 -0600] GET robots.txt HTTP1.1 404 480 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+68.180.229.170 - - [23Sep2015124751 -0600] GET ~bylvisaker HTTP1.1 304 156 - Mozilla5.0 (compatible; Yahoo! Slurp; httphelp.yahoo.comhelpusysearchslurp)
+172.23.7.67 - - [23Sep2015125418 -0600] POST ~appdesigncgi-binridesharerideshare.cgi HTTP1.1 200 451 httpcs.coloradocollege.edurideshare Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015125418 -0600] GET ~appdesignrebeccaimagesColorado-College.jpg HTTP1.1 200 146354 httpcs.coloradocollege.edu~appdesigncgi-binridesharerideshare.cgi Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015125430 -0600] GET ~appdesigncgi-binrideshare HTTP1.1 403 523 - Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015125501 -0600] POST ~appdesigncgi-binridesharerideshare.cgi HTTP1.1 200 717 httpcs.coloradocollege.edurideshare Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015125501 -0600] GET ~appdesignrebeccaimagesDenver-International-Airport.jpg HTTP1.1 200 521774 httpcs.coloradocollege.edu~appdesigncgi-binridesharerideshare.cgi Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015130526 -0600] POST ~appdesigncgi-binridesharerideshare.cgi HTTP1.1 200 717 httpcs.coloradocollege.edurideshare Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+172.23.7.67 - - [23Sep2015130621 -0600] POST ~appdesigncgi-binridesharerideshare.cgi HTTP1.1 200 451 httpcs.coloradocollege.edurideshare Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+66.71.247.94 - - [23Sep2015132019 -0600] GET pmascriptssetup.php HTTP1.0 404 510 - -
+66.249.93.179 - - [23Sep2015133534 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+172.23.21.193 - - [23Sep2015135042 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.21.193 - - [23Sep2015135042 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+172.23.21.193 - - [23Sep2015135042 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+180.76.15.153 - - [23Sep2015135314 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.23 - - [23Sep2015135342 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+157.55.39.4 - - [23Sep2015140528 -0600] GET robots.txt HTTP1.1 404 536 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.4 - - [23Sep2015140531 -0600] GET ~appdesignrebeccaimagesC=S;O=A HTTP1.1 200 947 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.4 - - [23Sep2015140531 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4518 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+157.55.39.4 - - [23Sep2015140531 -0600] GET ~bylvisakerCallReturn HTTP1.1 200 4288 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+172.23.17.91 - - [23Sep2015140221 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 460632942 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.17.91 - - [23Sep2015140551 -0600] GET ~bylvisakerubuntu-14.04.3-desktop-amd64.iso HTTP1.1 200 1054867778 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+207.46.13.12 - - [23Sep2015141521 -0600] GET ~bylvisaker HTTP1.1 200 4683 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.12 - - [23Sep2015141521 -0600] GET ~bylvisakerresume_benjamin_ylvisaker_2013.pdf HTTP1.1 200 45440 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.12 - - [23Sep2015141521 -0600] GET ~bylvisakerCallReturnthread_stack.html HTTP1.1 200 4683 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.12 - - [23Sep2015141521 -0600] GET ~appdesignrebecca HTTP1.1 200 897 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+188.212.103.182 - - [23Sep2015142328 -0600] GET w00tw00t.at.blackhats.romanian.anti-sec) HTTP1.1 404 488 - ZmEu
+188.212.103.182 - - [23Sep2015142328 -0600] GET phpMyAdminscriptssetup.php HTTP1.1 404 478 - ZmEu
+188.212.103.182 - - [23Sep2015142328 -0600] GET phpmyadminscriptssetup.php HTTP1.1 404 478 - ZmEu
+188.212.103.182 - - [23Sep2015142329 -0600] GET pmascriptssetup.php HTTP1.1 404 473 - ZmEu
+188.212.103.182 - - [23Sep2015142329 -0600] GET myadminscriptssetup.php HTTP1.1 404 476 - ZmEu
+188.212.103.182 - - [23Sep2015142329 -0600] GET MyAdminscriptssetup.php HTTP1.1 404 477 - ZmEu
+180.76.15.6 - - [23Sep2015143527 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.9 - - [23Sep2015143540 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.187 - - [23Sep2015150344 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+198.246.153.102 - - [23Sep2015151304 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version8.0.8 Safari600.8.9
+198.246.153.102 - - [23Sep2015151304 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version8.0.8 Safari600.8.9
+198.246.153.102 - - [23Sep2015151305 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4518 - Mozilla5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12B410 Safari600.1.4
+198.246.153.102 - - [23Sep2015151306 -0600] GET apple-touch-icon-precomposed.png HTTP1.1 404 523 - com.apple.WebKit.WebContent10600.8.9 CFNetwork720.5.7 Darwin14.5.0 (x86_64)
+198.246.153.102 - - [23Sep2015151306 -0600] GET apple-touch-icon.png HTTP1.1 404 513 - com.apple.WebKit.WebContent10600.8.9 CFNetwork720.5.7 Darwin14.5.0 (x86_64)
+64.233.172.230 - - [23Sep2015151912 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 httpwww.google.comsearch Mozilla5.0 (X11; Linux x86_64) AppleWebKit537.36 (KHTML, like Gecko; Google Web Preview) Chrome27.0.1453 Safari537.36
+66.249.88.191 - - [23Sep2015151958 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 2010 httpwww.google.com.brurlsa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCEQFjAG&url=http%3A%2F%2Fgoo.gl%2FkkIRQm&ei=iBcDVsOwE_j4ggX-Yw&usg=AFQjCNEIwCc3lm-7xBQJZBYu4dJg4ymjQQ Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome40.0.2214.93 Safari537.36
+66.249.90.25 - - [23Sep2015152019 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 301 608 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome28.0.1500.71 Safari537.36
+66.249.90.27 - - [23Sep2015152020 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome28.0.1500.71 Safari537.36
+172.23.110.89 - - [23Sep2015152022 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 304 211 - Mozilla5.0 (X11; Linux x86_64; rv40.0) Gecko20100101 Firefox40.0
+66.249.84.228 - - [23Sep2015152054 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 301 670 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFEQFjAB&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vxcDVtaTNOT3-Qb3pAE&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Linux; Android 5.0; SM-G900V BuildLRX21T) AppleWebKit537.36 (KHTML, like Gecko) Chrome44.0.2403.133 Mobile Safari537.36
+66.249.84.231 - - [23Sep2015152054 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 301 670 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDAQFjAF&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vxcDVrCyNZOQYOwW&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome40.0.2214.93 Safari537.36
+66.249.84.228 - - [23Sep2015152054 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 2009 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFEQFjAB&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vxcDVtaTNOT3-Qb3pAE&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Linux; Android 5.0; SM-G900V BuildLRX21T) AppleWebKit537.36 (KHTML, like Gecko) Chrome44.0.2403.133 Mobile Safari537.36
+66.249.84.228 - - [23Sep2015152054 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 2010 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDAQFjAF&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vxcDVrCyNZOQYOwW&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome40.0.2214.93 Safari537.36
+66.249.88.201 - - [23Sep2015152055 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 301 608 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDMQFjAB&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vRcDVuCXGM6DkQKcPQ&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Windows NT 6.1; WOW64; Trident7.0; rv11.0) like Gecko
+66.249.88.196 - - [23Sep2015152055 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 httpwww.google.comurlsa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDMQFjAB&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~tbarron%2Fpizzaprobs%2Fblock2&ei=vRcDVuCXGM6DkQKcPQ&usg=AFQjCNE9Sr5xZYWk6_Bwv7Kz2NjvBx-KgQ Mozilla5.0 (Windows NT 6.1; WOW64; Trident7.0; rv11.0) like Gecko
+66.249.88.196 - - [23Sep2015152056 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (Windows NT 6.1; WOW64; Trident7.0; rv11.0) like Gecko
+172.23.7.150 - - [23Sep2015152140 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Version8.0 Mobile12F70 Safari600.1.4
+172.23.11.170 - - [23Sep2015152529 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.11.170 - - [23Sep2015152529 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.11.158 - - [23Sep2015152544 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Android 5.1.1; Mobile; rv41.0) Gecko41.0 Firefox41.0
+172.23.11.158 - - [23Sep2015152544 -0600] GET favicon.ico HTTP1.1 404 537 - Mozilla5.0 (Android 5.1.1; Mobile; rv41.0) Gecko41.0 Firefox41.0
+172.23.11.158 - - [23Sep2015152544 -0600] GET favicon.ico HTTP1.1 404 536 - Mozilla5.0 (Android 5.1.1; Mobile; rv41.0) Gecko41.0 Firefox41.0
+75.71.33.175 - - [23Sep2015152745 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+75.71.33.175 - - [23Sep2015152746 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Windows NT 10.0; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+104.129.192.59 - - [23Sep2015153632 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (X11; Linux i686; rv31.0) Gecko20100101 Firefox31.0
+73.229.38.245 - - [23Sep2015155320 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+73.229.38.245 - - [23Sep2015155320 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+173.14.0.206 - - [23Sep2015160546 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+173.14.0.206 - - [23Sep2015160546 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+73.159.47.86 - - [23Sep2015160715 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+73.159.47.86 - - [23Sep2015160715 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+50.170.132.138 - - [23Sep2015160906 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+50.170.132.138 - - [23Sep2015160906 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.76.15.135 - - [23Sep2015162904 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.12 - - [23Sep2015162919 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+141.212.122.178 - - [23Sep2015163450 -0600] CONNECT proxytest.zmap.io80 HTTP1.1 405 541 - Mozilla5.0 zgrab0.x
+202.148.16.234 - - [23Sep2015170934 -0600] GET ~bylvisaker HTTP1.0 200 4646 httpcs.coloradocollege.edu Mozilla5.0 (Windows NT 6.1; WOW64; rv35.0) Gecko20100101 Firefox35.0
+50.170.132.138 - - [23Sep2015173118 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 304 211 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.114.33 - - [23Sep2015182528 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.114.33 - - [23Sep2015182529 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+180.76.15.5 - - [23Sep2015183028 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.154 - - [23Sep2015183048 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.106.108 - - [23Sep2015183956 -0600] HEAD  HTTP1.1 200 340 - Mozilla5.0 (Windows NT 6.1; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.112.253 - - [23Sep2015190725 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.112.253 - - [23Sep2015190725 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.27.44.18 - - [23Sep2015190926 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv41.0) Gecko20100101 Firefox41.0
+172.27.44.18 - - [23Sep2015190927 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv41.0) Gecko20100101 Firefox41.0
+172.27.44.18 - - [23Sep2015190927 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (X11; Ubuntu; Linux x86_64; rv41.0) Gecko20100101 Firefox41.0
+172.23.17.138 - - [23Sep2015192453 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+172.23.17.138 - - [23Sep2015192453 -0600] GET favicon.ico HTTP1.1 404 507 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit600.7.12 (KHTML, like Gecko) Version8.0.7 Safari600.7.12
+180.76.15.14 - - [23Sep2015192810 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.7 - - [23Sep2015192821 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.154 - - [23Sep2015202805 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.21 - - [23Sep2015202818 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+207.46.13.26 - - [23Sep2015210027 -0600] GET ~appdesignrebeccaimagesC=N;O=D HTTP1.1 200 944 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.26 - - [23Sep2015210027 -0600] GET ~appdesignrebeccaimagesC=D;O=A HTTP1.1 200 948 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+207.46.13.26 - - [23Sep2015210027 -0600] GET ~appdesignrebeccaimagesC=M;O=A HTTP1.1 200 945 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+54.209.60.63 - - [23Sep2015210627 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 952 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit600.1.25 (KHTML, like Gecko) Version8.0 Safari600.1.25
+180.76.15.16 - - [23Sep2015214120 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.157 - - [23Sep2015214158 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.8 - - [23Sep2015222859 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.33 - - [23Sep2015222915 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+207.150.177.129 - - [23Sep2015224628 -0600] GET  HTTP1.0 400 537 () { ; }; binping -c 3 82.118.236.247 -
+5.39.222.253 - - [23Sep2015231812 -0600] GET  HTTP1.0 200 674 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+70.208.2.246 - - [24Sep2015000011 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit537.51.2 (KHTML, like Gecko) Version7.0 Mobile11D257 Safari9537.53
+180.76.15.7 - - [24Sep2015005528 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.141 - - [24Sep2015005546 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.88.114 - - [24Sep2015013129 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.88.114 - - [24Sep2015013129 -0600] GET favicon.ico HTTP1.1 404 506 - Google favicon
+180.76.15.140 - - [24Sep2015014336 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.152 - - [24Sep2015014404 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+141.212.122.146 - - [24Sep2015015642 -0600] GET x HTTP1.1 400 519 - Telesphoreo
+90.21.46.10 - - [24Sep2015021943 -0600] GET favicon.ico HTTP1.1 404 507 - Mozilla5.0 (X11; Linux x86_64; rv39.0) Gecko20100101 Firefox39.0
+180.76.15.15 - - [24Sep2015023014 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.163 - - [24Sep2015023023 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.93.187 - - [24Sep2015024702 -0600] GET  HTTP1.1 200 578 - Google favicon
+157.55.39.33 - - [24Sep2015030056 -0600] GET  HTTP1.1 200 578 - Mozilla5.0 (compatible; bingbot2.0; +httpwww.bing.combingbot.htm)
+180.76.15.160 - - [24Sep2015033827 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.140 - - [24Sep2015033854 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.155 - - [24Sep2015043140 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.27 - - [24Sep2015043154 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+104.197.84.218 - - [24Sep2015052621 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit537.36 (KHTML, like Gecko) Chrome38.0.2125.101 Safari537.36
+104.197.84.218 - - [24Sep2015052621 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit537.36 (KHTML, like Gecko) Chrome38.0.2125.101 Safari537.36
+104.197.84.218 - - [24Sep2015052621 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4266 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit537.36 (KHTML, like Gecko) Chrome38.0.2125.101 Safari537.36
+180.76.15.9 - - [24Sep2015054028 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.30 - - [24Sep2015054043 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+70.196.204.197 - - [24Sep2015054239 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Linux; Android 5.0; SM-G900V BuildLRX21T) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+70.196.204.197 - - [24Sep2015054240 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Linux; Android 5.0; SM-G900V BuildLRX21T) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.94 Mobile Safari537.36
+84.1.26.42 - - [24Sep2015055818 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+84.1.26.42 - - [24Sep2015055819 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.93 Safari537.36
+180.76.15.138 - - [24Sep2015063334 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.24 - - [24Sep2015063357 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+220.167.100.13 - - [24Sep2015070114 -0600] GET managerhtml HTTP1.1 404 472 - Mozilla3.0 (compatible; Indy Library)
+180.76.15.136 - - [24Sep2015072815 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.135 - - [24Sep2015072825 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+172.23.114.19 - - [24Sep2015073135 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+172.23.114.19 - - [24Sep2015073135 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edu~tbarronpizzaprobsblock2 Mozilla5.0 (Windows NT 6.3; WOW64) AppleWebKit537.36 (KHTML, like Gecko) Chrome45.0.2454.99 Safari537.36
+66.249.65.49 - - [24Sep2015074459 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015074459 -0600] GET ~appdesignwalkerdownload HTTP1.1 200 6421 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075006 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=a1fd3559-a439-4739-9fcf-75f2823b10da HTTP1.1 200 3329 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075009 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=3487bc84-dc02-437b-b7fc-31f2084732eb HTTP1.1 200 2888 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075012 -0600] GET ~appdesignwalkerdownloadCaptcha.jpg%3F0.8302944395440329 HTTP1.1 200 7017 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075015 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=4610d997-69d9-4c7c-a0cc-ffc3f00c68f3 HTTP1.1 200 3259 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075018 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.3 HTTP1.1 200 35944 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075021 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=e2f4e69f-cc0b-4d06-90b5-2f345232225e HTTP1.1 200 3720 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075025 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.6 HTTP1.1 200 20721 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075028 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=58d73a4c-fb34-4564-8e0c-14461b13dac7 HTTP1.1 200 3448 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075035 -0600] GET ~appdesignwalkerdownloaddirectoryImage%3Fw=200.31 HTTP1.1 200 83651 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075041 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=c0fbcb56-2793-418b-b2d5-1853ad61cf64 HTTP1.1 200 3553 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075047 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.12 HTTP1.1 200 35812 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075053 -0600] GET ~appdesignwalkerdownload270.12 HTTP1.1 200 103053 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075059 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=7f88cd97-23d0-4644-8107-1a4db5bb9d62 HTTP1.1 200 3903 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075106 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=c49b651a-6b44-4071-9e9e-16df29f1f02c HTTP1.1 200 3630 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075112 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=71eb929d-f775-4a08-b56f-e894ec44281e HTTP1.1 200 3203 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075118 -0600] GET ~appdesignwalkerdownloaddirectoryImage%3Fw=200.22 HTTP1.1 200 72700 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075124 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=360fa673-178a-464e-a565-9c009804c7e1 HTTP1.1 200 3256 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075130 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=6da6b698-ba0a-488c-85f8-2b11c4e8922b HTTP1.1 200 4284 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075137 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.13.3 HTTP1.1 200 35812 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075143 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=a5f35b7a-14db-4e09-881c-33f62f3c3c2d HTTP1.1 200 3455 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075149 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=a9a514a5-6960-422b-94e6-9f9c429f42ab HTTP1.1 200 4399 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075155 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=a67b2711-e83e-4cde-9afb-ef9e371588d3 HTTP1.1 200 4307 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075202 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=853abad8-b1ae-4a74-956d-934cd94227fe HTTP1.1 200 2851 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075208 -0600] GET ~appdesignwalkerdownloadindex.dot HTTP1.1 200 60424 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075214 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=b83e5ddd-b9f0-4392-894d-149feaee842b HTTP1.1 200 3041 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075220 -0600] GET ~appdesignwalkerdownloaddirectoryImage%3Fw=200.33 HTTP1.1 200 74687 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075226 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=c3b85bc7-3f06-4598-899f-62c84245f001 HTTP1.1 200 3442 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075233 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.13.4 HTTP1.1 200 20589 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075239 -0600] GET ~appdesignwalkerdownload305 HTTP1.1 200 99741 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075245 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=6bf51f6c-6b10-44ab-9453-73482f803ce2 HTTP1.1 200 2553 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075251 -0600] GET ~appdesignwalkerdownload675.3 HTTP1.1 200 51501 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075257 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=3e7cdf29-916b-43ca-9b1e-317f2265aa15 HTTP1.1 200 2649 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075304 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=0e722011-0855-4890-852c-16792ba50978 HTTP1.1 200 4087 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075310 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=dc67abdb-775d-4eb1-9655-64bbafecec7e HTTP1.1 200 3755 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075316 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=0b16fd05-57df-481d-99d2-e66a2fac3d64 HTTP1.1 200 3793 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075322 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=4b16dea2-76cb-49d6-88ae-675debd46fca HTTP1.1 200 3742 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075329 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=e30c13d8-7351-42d2-a910-3ddac86f59c0 HTTP1.1 200 3562 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075335 -0600] GET ~appdesignwalkerdownload270.18 HTTP1.1 200 108945 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075341 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=2aeb7036-fef2-4954-926c-b23ba86ad34f HTTP1.1 200 2881 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075348 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=0cdaa421-2479-47ff-ba90-d5cff96ffe52 HTTP1.1 200 2785 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075354 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=b6951863-8444-49e9-9b4e-215dd8081c2a HTTP1.1 200 2419 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075400 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=218db93d-73aa-4b5b-a4e1-ad85f80bb1b8 HTTP1.1 200 2433 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015075406 -0600] GET ~appdesignwalkerdownload250.16 HTTP1.1 200 34866 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075413 -0600] GET ~appdesignwalkerdownloaddirectoryImage%3Fw=200.32 HTTP1.1 200 65807 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075419 -0600] GET ~appdesignwalkerdownloadindex.html%3Fsid=1251.8.3 HTTP1.1 200 20589 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075427 -0600] GET ~appdesignwalkerdownloadresize_image%3Fid=ef7bcd1c-f2f5-4817-b7c6-3d0e0e811d2a HTTP1.1 200 3207 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075450 -0600] GET html_textloaded HTTP1.1 404 509 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075453 -0600] GET imagesiconsv2context_help.gif HTTP1.1 404 523 - Googlebot-Image1.0
+66.249.65.46 - - [24Sep2015075508 -0600] GET s1251forms.aspxsid=1251&gid=1&pgid=307 HTTP1.1 404 513 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075527 -0600] GET browser_check.html HTTP1.1 404 512 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075547 -0600] GET s1251index.aspxsid=1251&gid=2 HTTP1.1 404 512 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075609 -0600] GET apiservicesHtmlScraperHtmlScraperService.asmxGetHtmlFromUrl HTTP1.1 404 533 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075634 -0600] GET s1251forms.aspxsid=1251&gid=1&pgid=6&cid=41 HTTP1.1 404 513 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015075704 -0600] GET s1251forms.aspxsid=1251&gid=1&pgid=3&cid=40 HTTP1.1 404 513 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075736 -0600] GET ~appdesignemmaHolmesmapform.html HTTP1.1 304 211 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075752 -0600] GET s1251search.html HTTP1.1 404 511 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015075922 -0600] GET s1251index.aspxsid=1251&gid=1&pgid=3&cid=40 HTTP1.1 404 512 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+172.29.40.16 - - [24Sep2015080936 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Windows NT 6.1; WOW64; rv40.0) Gecko20100101 Firefox40.0
+172.29.40.16 - - [24Sep2015080936 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (Windows NT 6.1; WOW64; rv40.0) Gecko20100101 Firefox40.0
+172.29.40.16 - - [24Sep2015080936 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (Windows NT 6.1; WOW64; rv40.0) Gecko20100101 Firefox40.0
+66.249.65.52 - - [24Sep2015082604 -0600] GET csscontrolsImageRotatorVieweranythingslider.min.cssv=53.0.6 HTTP1.1 404 536 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082605 -0600] GET ~appdesignwalkerdownloadcssprint.css HTTP1.1 404 526 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082606 -0600] GET ~appdesignwalkerdownloadimodstyle.css HTTP1.1 404 529 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082606 -0600] GET ~appdesignwalkerdownloadcsscc_custom_styles.cssv=20120508 HTTP1.1 404 537 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082607 -0600] GET csscontrolscms_v2cms_menubar_v2.min.cssv=53.0.6 HTTP1.1 404 525 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082607 -0600] GET csscontrolscms_v2menucsscompiled.min.cssv=53.0.6 HTTP1.1 404 526 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082608 -0600] GET ~appdesignwalkerdownloadcssmedia-queries.css HTTP1.1 404 532 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082608 -0600] GET scriptsfancybox2.1.5jquery.fancybox.cssv=53.0.6 HTTP1.1 404 525 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082609 -0600] GET csscalendar.min.cssv=53.0.6 HTTP1.1 404 512 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082609 -0600] GET WebResource.axdd=scwQPw4nd76x5E77WdMx7nGIiijiBt6hKtQxuw8XsbvvTnNFwhMWLHrP3UDb0NMc1qHBWrD79yEPYB_pPrp5lYJ5rdQ_yYKIP59Kb-0Svst6tta_D--jvtgusgrPUCU9YgB6W_l5eGskoNDxo5YvTcTHOzEZQD63SmBfXtNFofMlj0Io0&t=635581170882307213 HTTP1.1 404 509 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082610 -0600] GET WebResource.axdd=0HhomtI3TEWv5X3nqOjsLxOqlf0qFIj8vJW0CGQkufhmq0QMI9ivqvhtepivDs9rrCggPHlq8JA8VI91fRKbScJu8E5y4qEdLbd3USTaD1wQtHSlN4s0qcFLwGvmfwA3bFWQvMupfAle3snT_hV7dO8Yy7s1&t=635581170882307213 HTTP1.1 404 509 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082610 -0600] GET ~appdesignwalkerdownloadcsscc.css HTTP1.1 404 525 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082611 -0600] GET s1251search.html HTTP1.1 404 510 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082612 -0600] GET ~appdesignwalkerdownloadcssfancybox.css HTTP1.1 404 530 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082613 -0600] GET ~appdesignwalkerdownloadimageseditor_documentsjquery.fancybox-media.js HTTP1.1 404 554 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082613 -0600] GET ScriptResource.axdd=yREZEhuqGWr023naHbiRmbM3x6piQxetKUxQtKs1ermPi5WfXcW_QfeqawT4SxEUNgD1odJyIK4eddm-EEtftZB7SNAFheosDVLJIs6nFCSCG2fPgPxlEPMNRLwdiDdyzszGOBTxz6lJH_kX79irOSJMv-c1&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082614 -0600] GET ~appdesignwalkerdownloadjsflowplayer.js HTTP1.1 404 530 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082615 -0600] GET ScriptResource.axdd=N9Z2WZAk38IIkWHebT19snf4nzjS_h7tgPUY5KDV_--_zZrqKnZRFiBuNArq7FkrBBDxHfKlyNTMSNqxjLZ8xXmr4WPH85F35UXiacKNe3Ps5d4dsejK9xR6_3LDzv5cuuzEAQ2&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082615 -0600] GET ScriptResource.axdd=lCMrdA3INCbsuU5zENgRI8u4GaL16XsOJI6PYxZ1PJzKWez-mAv3hH5zTk_LulNGvZga3YKSlgWJuWf0xMq44fFbhLi5s8VEoLgHqpX2sv53UC1wNpcGsweB5yIJNM0LFqfVqcGx5oaZ0WpeWk0MXIhWkEc1&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082616 -0600] GET ~appdesignwalkerdownloadjsjquery.easing.js HTTP1.1 404 533 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082616 -0600] GET ScriptResource.axdd=NzWD7W4CDbXq52UYm3zKqz9AsLJDoWi-mKv8vKfXC6eEitF6lIYC5RlKZ6kQTMJKCuPSwNS8SlCM7ySbYq8d6VuNj4li5fhm2DBe5-LaTNurpdnKY5m821hZQiPc-tHNLlN-N4PaSk_qsP4pC0h2-sEADjPW82AYkwdE_koIFGL48u-T0&t=ffffffffb53e74b8 HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082617 -0600] GET ~appdesignwalkerdownloadimageseditor_documentsquickaccess.js HTTP1.1 404 547 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082618 -0600] GET ScriptResource.axdd=JvRA-kNqQRlroWFG5BYMwLX56dFA8Itvygcio7kmmtTXSVrylrySTyPg9P-0_IXmXwTkTZCegqlALgXDIxp2lN4jQCbNqTUAkXlcV0jiTa2u0Ch2JT-li3odK_bT0SnBMusJQkwO90Wt7PV6qundk4IodqM1&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082618 -0600] GET ~appdesignwalkerdownloadimageseditor_documentsjquery.fancybox.js HTTP1.1 404 551 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082619 -0600] GET WebResource.axdd=zetnWu5-zDNUkB4GY_-Pm9ucZn-m5yc3Lmz7hDjXZazSwWOZtxG6AljkRvNrNne6vpby__F6oUBcdSehUKu3M2frq001&t=635375095334701695 HTTP1.1 404 509 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082619 -0600] GET ~appdesignwalkerdownloadjsjquery.css-transform.js HTTP1.1 404 538 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082620 -0600] GET ScriptResource.axdd=Ql9F41ogI-h2i2rNzO1iaq6juouYyAKFTARWzUhT80byw5ooGT6pfOQoBfmMQtm3T_rAsnt5OyxmC4uROm2-z5J76RLNTEaz2VaiByEDkNk8Wp4M8mv7J2Z59x0eCkKNMTiV5xaU2RNluIH5PgyyLB_89t7DauIh_V2vSVRDdSdjcWVm0&t=ffffffffb53e74b8 HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082621 -0600] GET ScriptResource.axdd=y8VKuhNa1mgQMZHPCnJw09wTdxKxoUtlA1cr8wl8Xjk8k8n1metdBhbuZZa_NDXqwNHO8w-tEoFTz4Z_6I4w7_KoEmjIURJ_yPURdZ-RIfOEryxBOG0nwx5lbx0J_u1vhhx-BxCSzhjMo_lg2UlRywO4S7zdLjIXynFTyn4Ys55qI4Dh0&t=16fec49d HTTP1.1 404 513 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082621 -0600] GET ScriptResource.axdd=-szK185knkwtQiscmAOKNVb6ixIpfFkSYUB4v7afUH1KIYaPqK5vqHqOdnac0zTR1Cm6dW7Ktfx_DBvRee2uuZTE3mBXav0CItwzXUgsNjTohPkjUtrrLLZeUQCnREu2fgXWOIv_vrYH_mjicVNuSBkkS7Y1&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082622 -0600] GET ~appdesignwalkerdownloadimageseditor_documentscc.js HTTP1.1 404 541 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082623 -0600] GET ScriptResource.axdd=srLnmKeweQDhXm79q9yXr06XQUX9txO_CYnrszuLjuLOq8GHiVuE1beVBxP1t-j4wU5d5xSc-g8XmG7tUClM3_6W3_IJzIteNz_ho_IdTbvh4_jjc3cc0UX_WnATzTrVPd167nxZbCl02PQffGrZCjnkwm41&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082623 -0600] GET ~appdesignwalkerdownloadimageseditor_documentsblock.js HTTP1.1 404 543 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082624 -0600] GET ~appdesignwalkerdownloadjsjquery.mousewheel.js HTTP1.1 404 536 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.49 - - [24Sep2015082625 -0600] GET ~appdesignwalkerdownloadjsjquery.animate-css-rotate-scale.js HTTP1.1 404 543 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015082625 -0600] GET sresourcesjquerymodernizr-latest.js HTTP1.1 404 525 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015082626 -0600] GET ScriptResource.axdd=oON0C4hyJe2JCQKiw5bxMjwdTIOEESBONwoQRSLhZEH1bDTaMIbPxGdEy1PaZF1a7LZpp5nSSreI3Vdx_03ukjzQ2MSHhpkiDcTpVGjAkXi5Sgf8YGpLKjEEwWpTIDpxqWeP7k_a116rf10XtT-q3I478hqML08aT1t8_7ZOa9SO3t-o0&t=16fec49d HTTP1.1 404 512 httpcs.coloradocollege.edu~appdesignwalkerdownloadindex.html%3Fsid=1251.6 Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.154 - - [24Sep2015082737 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.158 - - [24Sep2015082749 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+107.23.45.196 - - [24Sep2015084139 -0600] GET  HTTP1.1 200 578 httpcs.coloradocollege.edu Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+107.23.45.196 - - [24Sep2015084139 -0600] GET favicon.ico HTTP1.1 404 506 httpcs.coloradocollege.edufavicon.ico Mozilla5.0 (compatible; DuckDuckGo-Favicons-Bot1.0; +httpduckduckgo.com)
+88.131.87.100 - - [24Sep2015085621 -0600] GET ~bylvisakerMonadMotivation HTTP1.1 200 4519 httpwww.google.seurlsa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCYQFjAAahUKEwiL-8_u9o_IAhUI7nIKHRcHBZo&url=http%3A%2F%2Fcs.coloradocollege.edu%2F~bylvisaker%2FMonadMotivation%2F&usg=AFQjCNHMzGqrghSn8g4Zw6PN0FSwOmCaWQ Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version6.2.8 Safari537.85.17
+88.131.87.100 - - [24Sep2015085621 -0600] GET ~bylvisakerMonadMotivationmanni.css HTTP1.1 200 1220 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version6.2.8 Safari537.85.17
+88.131.87.100 - - [24Sep2015085621 -0600] GET ~bylvisakergenerated_toc.js HTTP1.1 200 4267 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version6.2.8 Safari537.85.17
+88.131.87.100 - - [24Sep2015085622 -0600] GET favicon.ico HTTP1.1 404 507 httpcs.coloradocollege.edu~bylvisakerMonadMotivation Mozilla5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit600.8.9 (KHTML, like Gecko) Version6.2.8 Safari537.85.17
+66.249.83.213 - - [24Sep2015090137 -0600] GET  HTTP1.1 200 578 - Google favicon
+66.249.83.203 - - [24Sep2015090137 -0600] GET favicon.ico HTTP1.1 404 507 - Google favicon
+66.249.65.49 - - [24Sep2015090908 -0600] GET ~appdesignwalkerdownload HTTP1.1 200 6421 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+180.76.15.9 - - [24Sep2015093721 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.31 - - [24Sep2015093755 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+66.249.65.52 - - [24Sep2015100017 -0600] GET WebResource.axdd=zetnWu5-zDNUkB4GY_-Pm9ucZn-m5yc3Lmz7hDjXZazSwWOZtxG6AljkRvNrNne6vpby__F6oUBcdSehUKu3M2frq001&t=635207210953880130 HTTP1.1 404 510 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.46 - - [24Sep2015100018 -0600] GET ScriptResource.axdd=NzWD7W4CDbXq52UYm3zKqz9AsLJDoWi-mKv8vKfXC6eEitF6lIYC5RlKZ6kQTMJKCuPSwNS8SlCM7ySbYq8d6VuNj4li5fhm2DBe5-LaTNurpdnKY5m821hZQiPc-tHNLlN-N4PaSk_qsP4pC0h2-sEADjPW82AYkwdE_koIFGL48u-T0&t=ca758f3 HTTP1.1 404 513 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.65.52 - - [24Sep2015100018 -0600] GET ScriptResource.axdd=Ql9F41ogI-h2i2rNzO1iaq6juouYyAKFTARWzUhT80byw5ooGT6pfOQoBfmMQtm3T_rAsnt5OyxmC4uROm2-z5J76RLNTEaz2VaiByEDkNk8Wp4M8mv7J2Z59x0eCkKNMTiV5xaU2RNluIH5PgyyLB_89t7DauIh_V2vSVRDdSdjcWVm0&t=ca758f3 HTTP1.1 404 512 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+172.23.5.8 - - [24Sep2015102633 -0600] GET ~tbarronpizzaprobsblock2 HTTP1.1 200 989 - Mozilla5.0 (Macintosh; Intel Mac OS X 10.10; rv40.0) Gecko20100101 Firefox40.0
+172.23.5.8 - - [24Sep2015102633 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (Macintosh; Intel Mac OS X 10.10; rv40.0) Gecko20100101 Firefox40.0
+172.23.5.8 - - [24Sep2015102633 -0600] GET favicon.ico HTTP1.1 404 506 - Mozilla5.0 (Macintosh; Intel Mac OS X 10.10; rv40.0) Gecko20100101 Firefox40.0
+180.76.15.162 - - [24Sep2015103027 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+180.76.15.148 - - [24Sep2015103045 -0600] GET  HTTP1.1 200 674 - Mozilla5.0 (compatible; Baiduspider2.0; +httpwww.baidu.comsearchspider.html)
+63.148.222.194 - - [24Sep2015104426 -0600] GET ~tpricebroncuciaeddie_and_the_laces.jpg HTTP1.1 200 22715 httpgames.espn.go.comlm-appffl Mozilla5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit600.1.4 (KHTML, like Gecko) Mobile12H143
+182.118.60.79 - - [24Sep2015110352 -0600] GET  HTTP1.1 200 522 - Mozilla5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit537.36 (KHTML, like Gecko) Chrome41.0.2251.0 Safari537.36
+66.249.79.191 - - [24Sep2015110414 -0600] GET robots.txt HTTP1.1 404 507 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+66.249.79.191 - - [24Sep2015110414 -0600] GET globaljspluginsexpandy.js HTTP1.1 404 519 - Mozilla5.0 (compatible; Googlebot2.1; +httpwww.google.combot.html)
+123.125.71.71 - - [24Sep2015111124 -0600] - 408 0 - -

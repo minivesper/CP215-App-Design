@@ -1,0 +1,11 @@
+td {
+  padding: 15;
+  /*border: 1px solid gold*/
+}
+.the_table{
+  background-image: url("Images/velvet.jpg");
+}
+
+#body{
+  zoom: 67%;
+}

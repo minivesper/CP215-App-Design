@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <title> Well Hello there </title>
+  </head>
+  <body>
+    <script>
+      function profit_calculation(income, expenditure, id)
+      {
+        var d  = document.getElementById(id);
+        d = income - expenditure;
+        //This was incredibly frustrating for me.
+        //I couldn't figure out how to call a function
+        //inside my table cell elements.
+      }
+      function color()
+      {
+        var d  = document.getElementById("mdoor");
+        d.style.color = "#CC0000";
+      }
+      function color2()
+      {
+        var d  = document.getElementById("mdoor");
+        d.style.color = "#5A5A13";
+      }
+    </script>
+      <ol style= "font-size: 25"; >Doors
+        <li style= "text-shadow: 1px 1px 2px black"; >wooden</li>
+        <li id= "mdoor" >metal</li>
+        <li onmouseover= " color() "; onclick= "color2()">stone</li>
+        <li style= "font-family: fantasy">plastic</li>
+      </ol>
+      <table style= "width: 25%"; border="1"; >
+        <th colspan="4"> income, expenditure, and profit </th>
+        <tr>
+          <th> name </th>
+          <th> income </th>
+          <th> expenditure </th>
+          <th> profit </th>
+        </tr>
+        <tr>
+          <td>Jim</td>
+          <td>1800</td>
+          <td>1000</td>
+          <td> 800 </td>
+        </tr>
+        <tr>
+          <td>Sarah</td>
+          <td>2000</td>
+          <td>1675.5</td>
+          <td> 324.5 </td>
+        </tr>
+        <tr>
+          <td>Frederick</td>
+          <td>2</td>
+          <td>1500</td>
+          <td> -1498 </td>
+        </tr>
+      </table>
+  </body>
+</html>

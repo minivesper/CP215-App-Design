@@ -1,0 +1,38 @@
+<!-- This is a comment!
+  -- Author: Ben Ylvisaker
+  -- Date: today -->
+<html>
+  <head>
+    <title>My First HTML page!!!!</title>
+    <!-- keywords -->
+  </head>
+  <body>
+    <script>
+      // inside "<script>" we're in JavaScript land
+      // This is a comment in JavaScript
+      // while( true )
+      // alert( "Hello World" );
+      console.log( "Hello Log" );
+      function my_function( my_param )
+      {
+        var elem = document.getElementById("this_element");
+        elem.style.backgroundColor = "#ffaa44";
+      }
+    </script>
+    Hello
+    <hr>
+    <ul>
+      <li id="this_element">Dog</li>
+      <li>42</li>
+      <li>
+        <ol>
+          <li style="color: red; background-color:yellow">Yellow</li>
+          <li style="font-size:10">
+            <span style="font-size:100">Red</span>
+          </li>
+          <li style="color:blue" onmouseover=" my_function( 42 ) "> Mauve </li>
+        </ol>
+      </li>
+    </ul>
+  </body>
+</html>

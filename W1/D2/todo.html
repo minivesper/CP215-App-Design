@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title> To do list</title>
+    <link rel="stylesheet" type="text/css" href="todo_css.css">
+  </head>
+  <body>
+      <ol class="items" id= "the_list">
+      </ol>
+      <input id="new_item_text" type="text" value="add new item"></input>
+      <input onchange="priorityChange()" id="priority_input" type="range"
+        value="50" min="10" max="30" step=".25">
+      <input type="button" value="add" onclick="addItem()"></input>
+      <br>
+      <br>
+      <input id="list_position" type="text" value="list position?"></input>
+      <input type="button" value="delete" onclick="deleteItem()"></input>
+      <script src="todo.js"></script>
+  </body>
+</html>
