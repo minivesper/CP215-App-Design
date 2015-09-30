@@ -32,11 +32,11 @@ for( var i = 0; i < lines1.length + 1; i++ )
     {
         var cell = { best_align: false };
         row.push( cell );
-        if( i == 0 )
+        if( i === 0 )
         {
             cell.penalty = j;
         }
-        else if( j == 0 )
+        else if( j === 0 )
         {
             cell.penalty = i;
         }
@@ -62,37 +62,68 @@ for( var i = 0; i < lines1.length + 1; i++ )
 var i = lines1.length;
 var j = lines2.length;
 data[ i ][ j ].best_align = true;
+data[ i ][ j ].direction = 1;
 while( i > 0 || j > 0 )
 {
-    if( i == 0 )
+    if( i === 0 )
     {
         j--;
+        data[ i ][ j ].direction = 4;
     }
-    else if( j == 0 )
+    else if( j === 0 )
     {
         i--;
+        data[ i ][ j ].direction = 2;
     }
     else if( lines1[ i - 1 ] == lines2[ j - 1 ] )
     {
         i--;
         j--;
+        data[ i ][ j ].direction = 1;
     }
     else if( data[ i ][ j - 1 ].penalty < data[ i - 1 ][ j ].penalty )
     {
         j--;
+        data[ i ][ j ].direction = 4;
     }
     else if( data[ i ][ j - 1 ].penalty > data[ i - 1 ][ j ].penalty )
     {
         i--;
+        data[ i ][ j ].direction = 2;
     }
     else
     {
         i--;
+        data[ i ][ j ].direction = 2;
     }
     data[ i ][ j ].best_align = true;
 }
 
 /* Follow the bread crumbs */
+for( var i = 0; i < data.length; i++ )
+{
+    row = data[i];
+    for( var j = 0; j < row.length; j++ )
+    {
+        if( row[j].best_align )
+        {
+            /*if(row[ j ].direction == 1)
+            {
+                process.stdout.write(lines1[i]);
+            }*/
+            if(row[ j ].direction == 4)
+            {
+                process.stdout.write("-" + lines2[j]);
+            }
+            else if(row[ j ].direction == 2)
+            {
+                process.stdout.write("+" + lines1[i]);
+            }
+        }
+    }
+    console.log( "" );
+}
+
 for( var i = 0; i < data.length; i++ )
 {
     row = data[i];

@@ -1,0 +1,5 @@
+foo.jpg http://upload.wikimedia.org/wikipedia/commons/c/cb/Foo_was_here.jpg
+ben.html http://cs.coloradocollege.edu/~bylvisaker/short_bio.html
+please.txt http://not.going.to.work.edu/wrong
+really? not://even@a$real)URL
+/root/cc.html http://www.coloradocollege.edu/
