@@ -59,7 +59,7 @@ function server_fun( req, res )
        if(contents_line[i + 1] == "Password: " + pass_elem.value)
        {
           alert(Successfully logged on);
-        }
+        }Object.keys(kvs);
       }
       else {
         alert(incorrect username or password);
