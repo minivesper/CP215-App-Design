@@ -26,3 +26,8 @@ console.log( "[ajsdnfgakjlnewrkgnakrg]awenfjgansklgm".search(ts_pattern));
 
 var str = "loopy";
 console.log( str.charAt(3));
+
+var time = "12:54 AM";
+var char_pattern = /[0-9A-Za-z]{2}/g;
+var time_parts = time.match(char_pattern)
+ console.log(time_parts);
