@@ -73,12 +73,7 @@ function server_fun( req, res )
                             res.writeHead( 200 );
                             var response_text = "<html><body>"+rows.length+"<table><tbody>";
                             for( var i = 0; i < rows.length; i++ )
-                            {
-                                response_text += "<tr><td>" + rows[i].Name +
-                                    "</td><td>"+rows[i].GroupSize+"</td></tr>";
-                            }
-                            response_text += "</tbody></table></body></html>";
-                            res.end( response_text );
+                            {    var name = kvs[ 'name' ];
                         }
                     } );
         }
