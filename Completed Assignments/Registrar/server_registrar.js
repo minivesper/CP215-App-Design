@@ -379,7 +379,7 @@ function server_fun( req, res )
             addTeacher( req, res );
         }
         else if( req.url.indexOf( "add_course?" ) >= 0 )
-        {var sid = kvs[ 'student_ID' ];
+        {
             addCourse( req, res );
         }
         else if( req.url.indexOf( "add_enrollment" ) >= 0 )
